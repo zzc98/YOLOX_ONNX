@@ -14,7 +14,7 @@ Dataset: [SODA-10M](https://soda-2d.github.io/)
 
 ## Training
 
-Train lightweight model yolox-tiny based on [mmdet](https://github.com/open-mmlab/mmdetection) platform. Training configuration is in [config](SSLAD.py).
+Train lightweight model yolox-tiny based on [mmdet](https://github.com/open-mmlab/mmdetection) platform. 
 
 ## Inference
 

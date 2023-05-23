@@ -15,7 +15,7 @@
 
 ## 训练
 
-基于[mmdet](https://github.com/open-mmlab/mmdetection)平台，训练轻量级模型yolox-tiny。训练配置见[config](SSLAD.py)。
+基于[mmdet](https://github.com/open-mmlab/mmdetection)平台，训练轻量级模型yolox-tiny。
 
 ## 推理
 
